@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-Requests
-requests_toolbelt
-user_agent
